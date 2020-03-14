@@ -1,8 +1,8 @@
 {
+  "urlRandomness": "r5-tja",
   "hostType": "lan",
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": "az-gxq",
   "https": false
 }

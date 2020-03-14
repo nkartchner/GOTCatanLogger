@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 13876,
-  "expoServerNgrokUrl": "https://az-gxq.anonymous.gotcatanlogger.exp.direct",
-  "packagerNgrokUrl": "https://packager.az-gxq.anonymous.gotcatanlogger.exp.direct",
-  "ngrokPid": 2492
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://r5-tja.anonymous.gotcatanlogger.exp.direct",
+  "packagerNgrokUrl": "https://packager.r5-tja.anonymous.gotcatanlogger.exp.direct",
+  "ngrokPid": 50496
 }

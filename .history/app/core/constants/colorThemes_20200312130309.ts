@@ -1,0 +1,9 @@
+export const IntoTheSun_RGB = ["rgba(244, 227, 205, 1)", "rgba(255, 227, 164, 1)", "rgba(222, 151, 100, 1)", "rgba(147, 56, 54, 1)"];
+export const DeepRivers_RGB = ["rgba(147, 56, 54, 1)", "rgba(226, 233, 231, 1)", "rgba(93, 95, 94, 1)", "rgba(16, 88, 120, 1)"];
+export const RespectTheLion_RGB = ["rgba(245, 241, 220, 1)", "rgba(151, 68, 73, 1)", "rgba(80, 89, 75, 1)", "rgba(237, 212, 157, 1)"];
+export const IronHand_RGB = ["rgba(199, 199, 199, 1)", "rgba(253, 223, 142, 1)", "rgba(80, 80, 80, 1)", "rgba(91, 70, 77, 1)"];
+export const StrongByNature_RGB = ["rgba(231, 233, 216, 1)", "rgba(233, 144, 147, 1)", "rgba(241, 206, 170, 1)", "rgba(243, 226, 200, 1)"];
+export const SeventhStag_RGB = ["rgba(75, 72, 87, 1)", "rgba(173, 137, 65, 1)", "rgba(121, 132, 135, 1)", "rgba(240, 218, 189, 1)"];
+export const NorthCastle_RGB = ["rgba(195, 37, 54, 1)", "rgba(222, 219, 220, 1)", "rgba(57, 56, 61, 1)", "rgba(246, 239, 230, 1)"];
+export const HighHonor_RGB = ["rgba(52, 69, 91, 1)", "rgba(241, 237, 220, 1)", "rgba(101, 102, 99, 1)", "rgba(213, 208, 196, 1)"];
+export const HOL_RGB = ["rgba(234, 182, 77, 1)", "rgba(147, 4, 22, 1)", "rgba(100, 0, 13, 1)", "rgba(55, 0, 3, 1)", "rgba(163, 41, 39, 1)"]; // House of lannister
